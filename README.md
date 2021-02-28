@@ -7,4 +7,5 @@ vanilla JS 연습
 - [3-ExchangeRateCalculator](./3-ExchangeRateCalculator) #api #fetch
 - [4-DOMArrayMethods](./4-DOMArrayMethods) #api #async-await
 - [5-MenuSliderModal](./5-MenuSliderModal) #modal #toggle-navbar
-- [6-HangmanGame](./6-HangmanGame) #svg #key
+- [6-HangmanGame](./6-HangmanGame) #svg #keyboard-input
+- [7-MealFinder](./7-MealFinder) #api #mediaQuery 
