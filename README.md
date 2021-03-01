@@ -12,3 +12,4 @@ vanilla JS 연습
 - [8-ExpenseTracker](./8-ExpenseTracker) #Array #LocalStorage
 - [9-MusicPlayer](./9-MusicPlayer) #HTML Audio API
 - [10-InfinityScrollPosts](./10-InfinityScrollPosts) #fetch #async/await #css Loader
+- [11-TypingGame](./11-TypingGame) #DOM #Intervals #Events
