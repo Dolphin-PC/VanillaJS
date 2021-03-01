@@ -11,3 +11,4 @@ vanilla JS 연습
 - [7-MealFinder](./7-MealFinder) #Fetch #MealDB API
 - [8-ExpenseTracker](./8-ExpenseTracker) #Array #LocalStorage
 - [9-MusicPlayer](./9-MusicPlayer) #HTML Audio API
+- [10-InfinityScrollPosts](./10-InfinityScrollPosts) #fetch #async/await #css Loader
