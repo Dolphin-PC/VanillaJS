@@ -1,3 +1,59 @@
 {
-    "liveServer.settings.port": 5501
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.iconTheme": "eq-material-theme-icons-darker",
+  "workbench.startupEditor": "newUntitledFile",
+  "sync.autoDownload": true,
+  "sync.autoUpload": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "path-intellisense.autoSlashAfterDirectory": true,
+  "path-intellisense.extensionOnImport": true,
+  "prettier.tabWidth": 4,
+  "prettier.endOfLine": "auto",
+  "prettier.proseWrap": "always",
+  "prettier.printWidth": 200,
+  "prettier.requirePragma": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.useTabs": true,
+  "prettier.singleQuote": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "todo-tree.tree.showScanModeButton": false,
+  "cSpell.userWords": ["esversion"],
+  "git.autofetch": true,
+  "better-comments.multilineComments": false,
+  "editor.fontSize": 11,
+  "editor.linkedEditing": true,
+  "editor.cursorStyle": "line-thin",
+  "editor.wordWrap": "on",
+  "editor.suggestSelection": "first",
+  "editor.formatOnSave": true,
+  "editor.wordWrapColumn": 100,
+  "editor.tokenColorCustomizations": {
+    "comments": "#fc8621",
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      }
+    ]
+  },
+
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
