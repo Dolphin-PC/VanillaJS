@@ -17,3 +17,4 @@ vanilla JS 연습
 - [13-MemoryCards](./13-MemoryCards) #CSS effects #LocalStorage
 - [14-LyricsSearchApp](./14-LyricsSearchApp) #Fetch #Pagination #Lyrics.ovh API
 - [15-RelaxerApp](./15-RelaxerApp) #CSS Animation #setTimeout
+- [16-BreakOutGame](./16-BreakOutGame) #HTML Canvas API
