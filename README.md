@@ -18,4 +18,5 @@ vanilla JS 연습
 - [14-LyricsSearchApp](./14-LyricsSearchApp) #Fetch #Pagination #Lyrics.ovh API
 - [15-RelaxerApp](./15-RelaxerApp) #CSS Animation #setTimeout
 - [16-BreakOutGame](./16-BreakOutGame) #HTML Canvas API
-- [17-NewYearCountdown](./17NewYearCountdown) #DOM #Date&Time
+- [17-NewYearCountdown](./17-NewYearCountdown) #DOM #Date&Time
+- [18-SortableList](./18-SortableList) #Drag&Drop API
